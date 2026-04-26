@@ -1,7 +1,7 @@
 # 🛒 Blinkit Sales Analysis — Power BI Dashboard
 
 <p align="center">
-  <img src="Blinkitoverview.png" alt="Blinkit Sales Dashboard" width="100%"/>
+  <img src="screenshots/Blinkitoverview.png" alt="Blinkit Sales Dashboard" width="100%"/>
 </p>
 
 <p align="center">
